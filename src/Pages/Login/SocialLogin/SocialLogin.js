@@ -1,4 +1,5 @@
 import React from 'react';
+import '../../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import google from '../../../images/social/google.png';
 import facebook from '../../../images/social/facebook.png';
 import { useSignInWithGoogle } from 'react-firebase-hooks/auth';
